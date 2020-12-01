@@ -34,7 +34,7 @@ const Header: FC = () => {
           aria-label="menu"
         ></IconButton>
         <Typography variant="h6" className={classes.title}>
-          アイディア募集サイト
+          語学学習プレイヤー
         </Typography>
       </Toolbar>
     </AppBar>
