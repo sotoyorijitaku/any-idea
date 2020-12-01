@@ -4,8 +4,7 @@ import {
   IconButton,
   Slider,
 } from "@material-ui/core";
-import Button from "@material-ui/core/Button";
-import { Label, Pause, PlayArrow } from "@material-ui/icons";
+import { Pause, PlayArrow } from "@material-ui/icons";
 import React, { FC, useCallback, useEffect, useState } from "react";
 
 export const AudioPlayer: FC = () => {

@@ -8,8 +8,7 @@ const Top: FC = () => {
       <Container maxWidth="sm">
         <h1>こんばんは</h1>
         <h2>音楽再生プレイヤーを作成中</h2>
-        <p>作れるかはわからないっす</p>
-        <p>prettierが効いてないようで四苦八苦中</p>
+        <h2>Firebaseにアップロードを検討中</h2>
 
         <AudioPlayer></AudioPlayer>
       </Container>
